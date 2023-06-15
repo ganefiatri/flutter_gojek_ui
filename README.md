@@ -1,6 +1,8 @@
 # gojek_ui
 
-A new Flutter project.
+# Referensi
+  Figma : https://www.figma.com/file/q3GiYBG20jA6w3NzTiCYms/Flutter-Lesson%3A-Gojek-UI-Home-Screen-(Community)?type=design&node-id=0%3A1&t=vWlhVrmwAVY9aNzQ-1
+thank to Arif Iskandar
 
 ## Getting Started
 
